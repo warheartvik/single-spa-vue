@@ -13,6 +13,7 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+serve -l 8081 -s dist --cors
 ```
 
 ### Lints and fixes files
