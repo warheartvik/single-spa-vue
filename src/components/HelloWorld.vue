@@ -2,6 +2,14 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
+      What you see rigth now is a Vue Microfrontend over Single Spa.
+      <a href="https://single-spa.js.org/" target="_blank" rel="noopener">single-spa documentation</a>.
+    </p>  
+    <p>
+      By Warheartvik
+      <a href="https://github.com/warheartvik/" target="_blank" rel="noopener">Warheartvik's github</a>.
+    </p>       
+    <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
